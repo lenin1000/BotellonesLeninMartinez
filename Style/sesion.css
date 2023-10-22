@@ -1,0 +1,48 @@
+* {
+    font-family: 'Belanosima', sans-serif;
+}
+
+body {
+    background-color: #696969;
+}
+
+.Container_sesion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 13em auto;
+    background-color: #2E4053;
+    border-radius: 5%;
+    max-width: 60%; 
+    border: 10px solid #4682B4;
+    padding: 20px; 
+}
+
+.form-label {
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: 10px; 
+}
+
+.form-text {
+    color: aliceblue;
+}
+
+.Login {
+    font-size: 35px;
+    color: aliceblue;
+    margin-bottom: 1em;
+}
+
+.form-control {
+    width: 100%; 
+    max-width: 25em; 
+    margin-bottom: 10px; 
+}
+
+.btn{
+
+margin-bottom: 20px;
+
+}
